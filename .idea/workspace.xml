@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/usersInfo/company/Company.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/usersInfo/user/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/usersInfo/userAdress/Adress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/usersInfo/userGeo/Geo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/usersInfo/users/Users.js" afterDir="false" />
+    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="classwork 10.08">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +60,21 @@
       <updated>1628586091115</updated>
       <workItem from="1628586092465" duration="60000" />
     </task>
+    <task id="LOCAL-00001" summary="classwork 10.08">
+      <created>1628607538866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628607538866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classwork 10.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="classwork 10.08" />
   </component>
 </project>
