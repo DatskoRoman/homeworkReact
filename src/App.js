@@ -44,7 +44,7 @@ function App() {
               <Adress
                   street = 'Victor Plains'
                   suite = 'Suite 879'
-                  city = 'Wisokyburgh'
+                  city = 'Wisokyburgh '
                   zipcode = '90566-7771'
               />
               <Geo
