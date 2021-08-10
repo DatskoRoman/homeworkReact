@@ -5,7 +5,6 @@ import Character from "./components/character/Character";
 function App() {
   return (
     <div>
-    <Character/>
     </div>
   );
 }
