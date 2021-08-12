@@ -1,16 +1,26 @@
 import Posts from "../posts/Posts";
 import {useEffect, useState} from "react";
-import {getPostOfUser} from "../services/user.service";
+import {getComentOfUser, getPostOfUser} from "../services/user.service";
+import Coments from "../coments/Coments";
+import './User.css'
 
 export default function User({item}) {
     let [posts, setPosts] = useState([]);
     useEffect(()=>{
         getPostOfUser(item.id).then(value => setPosts(value))
         }, [item.id]);
+    let [coments, setComents] = useState([]);
+    useEffect(()=>{
+        getComentOfUser(item.id).then(value => setComents(value))
+    }, [item.id]);
+
     return(
-        <div>
+        <div className={"styleUser"}>
             <h2>{item.id}. {item.name} {item.username} </h2>
+            <h3>User posts</h3>
             <Posts items={posts}/>
+            <h3>User coments</h3>
+            <Coments item={coments}/>
         </div>
     )
 

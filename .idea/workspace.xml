@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/services/user.service.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/coment/Coment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/coment/Coment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/coments/Coments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/post/Post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/user/User.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/character/Character.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/simpson/Simpson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/services/user.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/user.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -45,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,11 +73,24 @@
       <option name="presentableId" value="Default" />
       <updated>1628586091115</updated>
       <workItem from="1628586092465" duration="60000" />
-      <workItem from="1628678984427" duration="14311000" />
+      <workItem from="1628678984427" duration="14439000" />
+      <workItem from="1628758660326" duration="7596000" />
     </task>
+    <task id="LOCAL-00001" summary="11.08 classwork">
+      <created>1628695279149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628695279149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11.08 classwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.08 classwork" />
   </component>
 </project>

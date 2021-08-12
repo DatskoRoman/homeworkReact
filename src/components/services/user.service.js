@@ -18,4 +18,14 @@ function getPostOfUser(userId) {
         .then(value => value.json());
 }
 
-export {getUsers, getUser, getPostOfUser, getPostsOfUser};
+function getComentsOfUser() {
+    return fetch(`https://jsonplaceholder.typicode.com/comments`)
+        .then(value => value.json());
+}
+
+function getComentOfUser(userId) {
+    return fetch(`https://jsonplaceholder.typicode.com/posts/${userId}/comments`)
+        .then(value => value.json());
+}
+
+export {getUsers, getUser, getPostOfUser, getPostsOfUser, getComentsOfUser, getComentOfUser};

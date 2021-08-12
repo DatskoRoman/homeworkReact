@@ -1,7 +1,11 @@
+import './Post.css'
 export default function Post({item}) {
     return (
-        <div>
-            {item.title}
+        <div className={'stylePost'}>
+            <p><i>
+               {item.title}
+            </i>
+            </p>
         </div>
     )
 

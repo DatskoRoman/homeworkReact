@@ -1,7 +1,7 @@
 import Post from "../post/Post";
 
 export default function Posts({items}) {
-    console.log(items);
+    // console.log(items);
     return(
         <div>
             {
