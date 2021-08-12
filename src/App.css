@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: bisque;
+}
+.users{
+  background-color: burlywood;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+.posts{
+  background-color: khaki;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+.comments{
+  background-color: coral;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+h2{
+  text-align: center;
+}
