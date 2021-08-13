@@ -1,0 +1,6 @@
+.flexUser{
+    display: flex;
+}
+.flexUser>div{
+    width: 50%;
+}

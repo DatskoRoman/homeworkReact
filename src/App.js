@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import Character from "./components/character/Character";
+import Users from "./components/users/Users";
 
 function App() {
   return (
-    <div></div>
+    <div>
+      <Users/>
+    </div>
   );
 }
 
