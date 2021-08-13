@@ -1,0 +1,9 @@
+.flexPost{
+    display: flex;
+}
+.comment{
+    /*position: fixed;*/
+}
+flexPost>div{
+    width: 50%;
+}

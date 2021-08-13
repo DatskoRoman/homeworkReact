@@ -1,0 +1,6 @@
+.flexComment{
+    display: flex;
+}
+flexComment>div{
+    width: 50%;
+}
