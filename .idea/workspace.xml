@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="homework 13.08">
+    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="homework 15.08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comment/Comment.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comment/Comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/comments/Comments.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/Comments.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comments/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/posts/posts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/posts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/service/post.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/service/post.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +55,16 @@
       <workItem from="1628586092465" duration="60000" />
       <workItem from="1628862945190" duration="10425000" />
       <workItem from="1628977698063" duration="1825000" />
-      <workItem from="1629027755384" duration="11229000" />
+      <workItem from="1629027755384" duration="12765000" />
     </task>
+    <task id="LOCAL-00001" summary="homework 15.08">
+      <created>1629043618854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629043618854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework 13.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 13.08" />
+    <MESSAGE value="homework 15.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 15.08" />
   </component>
 </project>

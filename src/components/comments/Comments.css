@@ -4,7 +4,9 @@
 }
 .wrap>div{
     width: 50%;
+
 }
 .comment1{
 /*position: absolute;*/
+    background: aquamarine;
 }

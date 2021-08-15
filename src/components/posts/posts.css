@@ -4,7 +4,10 @@
 }
 .comment{
     position: fixed;
+    background: antiquewhite;
+
 }
 .flexPost>div{
     width: 50%;
+
 }
