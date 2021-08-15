@@ -1,6 +1,10 @@
-.flexComment{
+.wrap{
     display: flex;
+    background: antiquewhite;
 }
-flexComment>div{
+.wrap>div{
     width: 50%;
+}
+.comment1{
+/*position: absolute;*/
 }

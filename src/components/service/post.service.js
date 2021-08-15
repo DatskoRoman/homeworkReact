@@ -14,9 +14,9 @@ function getCommentsOfUser() {
         .then(value => value.json());
 }
 
-function getCommentOfUser(userId) {
-    return fetch(`https://jsonplaceholder.typicode.com/posts/${userId}/comments`)
+function getCommentOfUser(postId) {
+    return fetch(`https://jsonplaceholder.typicode.com/posts/${postId}/comments`)
         .then(value => value.json());
 }
 
-export {getPostOfUser, getPostsOfUser, getCommentsOfUser, getCommentOfUser};
+export { getCommentsOfUser, getCommentOfUser, getPostOfUser, getPostsOfUser};

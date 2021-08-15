@@ -1,9 +1,10 @@
 .flexPost{
     display: flex;
+    background: aquamarine;
 }
 .comment{
-    /*position: fixed;*/
+    position: fixed;
 }
-flexPost>div{
+.flexPost>div{
     width: 50%;
 }

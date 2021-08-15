@@ -22,9 +22,12 @@ export default function Posts() {
             }
             </div>
             <div>
+
             {
                 post && <div className={'comment'}>
-                    {post.id} {post.title}. {post.body}
+                    <p>Info post:</p>
+                    UserId: {post.userId}. Id: {post.id}. Title: {post.title}.
+                    <p>Body: {post.body}.</p>
                 </div>
             }
             </div>
