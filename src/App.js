@@ -1,9 +1,15 @@
 
 import './App.css';
+import Form from "./components/form/Form";
+import ControlledForm from "./components/controlled-form/ControlledForm";
+import AllCars from "./components/all-cars/AllCars";
 
 function App() {
   return (
-    <div></div>
+    <div className={'flexBlock'}>
+        <AllCars/>
+        <ControlledForm/>
+    </div>
   );
 }
 
