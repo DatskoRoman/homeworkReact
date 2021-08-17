@@ -1,5 +1,6 @@
 import {useState} from "react";
 import {carEdit} from "../../services/car.service";
+import './Edit.css'
 
 export default function Edit({item}) {
     let [model, setModel] = useState([]);
@@ -10,7 +11,7 @@ export default function Edit({item}) {
         let id = item.id;
         let tempCar = {model, price, year,id}
         setCar({...tempCar});
-        carEdit(tempCar).then();
+        carEdit(tempCar);
 
     }
     let onInputChangeModel = (e) =>{
@@ -29,11 +30,11 @@ export default function Edit({item}) {
     return (
         <div >
             <form className={"change"} onSubmit={onSubmitForm}>
-                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'change model avto'}/>
-                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'change price avto'}/>
-                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'change year avto'}/>
-                <button>Change</button>
-                {/*<input type="submit" name={'save'}/>*/}
+                <h3 className={'h3Change'}>Change your auto</h3>
+                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'change model auto'}/>
+                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'change price auto'}/>
+                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'change year auto'}/>
+                <button className={'editButton'}>Change</button>
             </form>
 
 

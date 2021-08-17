@@ -6,7 +6,10 @@ import AllCars from "./components/all-cars/AllCars";
 function App() {
   return (
     <div className={'flexBlock'}>
-        <AllCars/>
+        <div>
+            <h1>Info about car:</h1>
+            <AllCars/>
+        </div>
         <ControlledForm/>
     </div>
   );

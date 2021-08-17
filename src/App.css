@@ -38,4 +38,8 @@
 }
 .flexBlock{
   display: flex;
+  margin-left: 50px;
+}
+h1{
+  text-align: center;
 }

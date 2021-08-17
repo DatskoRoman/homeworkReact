@@ -1,7 +1,20 @@
 .carBlock{
     border: black solid 1px;
     border-radius: 25px;
+    margin: 10px;
+    background: khaki;
 }
 .buttonCar{
     display: flex;
+    justify-content: center;
+}
+.buttonDelete{
+    margin: 10px;
+}
+.buttonEdit{
+    margin: 10px;
+}
+h2, p{
+    text-align: center;
+    padding: 10px;
 }

@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/edit/Edit.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/car/Car.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/form/Form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/car.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/car.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/edit/Edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,7 +60,7 @@
       <workItem from="1628586092465" duration="60000" />
       <workItem from="1629109372805" duration="18107000" />
       <workItem from="1629190803624" duration="4316000" />
-      <workItem from="1629197002107" duration="9681000" />
+      <workItem from="1629197002107" duration="13385000" />
     </task>
     <task id="LOCAL-00001" summary="clean">
       <created>1629109414338</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629193412133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework 17.08">
+      <created>1629207069895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629207069895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +100,7 @@
     <MESSAGE value="clean" />
     <MESSAGE value="classwork 16.08" />
     <MESSAGE value="classwork 17.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="classwork 17.08" />
+    <MESSAGE value="homework 17.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 17.08" />
   </component>
 </project>

@@ -28,10 +28,12 @@ export default function ControlledForm() {
     }
     return (
         <div >
+
             <form className={"fixedBlockInput"} onSubmit={onSubmitForm}>
-                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'model avto'}/>
-                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'price avto'}/>
-                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'year avto'}/>
+                <h1 className={'h1CreateCar'}>Create new car:</h1>
+                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'create model auto'}/>
+                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'create price auto'}/>
+                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'create year auto'}/>
                 <button>Submit</button>
                 {/*<input type="submit" name={'save'}/>*/}
             </form>
