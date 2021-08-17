@@ -8,7 +8,6 @@ export default function ControlledForm() {
     let [year, setYear] = useState([]);
     let [car, setCar] = useState({model:'', price:'', year:''})
     const onSubmitForm = (e) => {
-      e.preventDefault();
       let tempCar = {model, price, year}
         setCar({...tempCar});
       saveCar(tempCar).then();

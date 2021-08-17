@@ -1,6 +1,7 @@
 import {useEffect, useState} from "react";
 import {getCars} from "../../services/car.service";
 import Car from "../car/Car";
+import './AllCars.css'
 
 export default function AllCars() {
 
@@ -10,7 +11,7 @@ export default function AllCars() {
     },[]);
 
     return(
-        <div>
+        <div className={"reverseCars"}>
             {
                 cars.map(value => <Car item={value} key={value.id}/>)
             }
