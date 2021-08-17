@@ -1,16 +1,16 @@
 import {useState} from "react";
-import {saveCar} from "../../services/car.service";
-import './ControlledForm.css'
+import {carEdit} from "../../services/car.service";
 
-export default function ControlledForm() {
+export default function Edit({item}) {
     let [model, setModel] = useState([]);
     let [price, setPrice] = useState([]);
     let [year, setYear] = useState([]);
     let [car, setCar] = useState({model:'', price:'', year:''})
     const onSubmitForm = (e) => {
-      let tempCar = {model, price, year}
+        let id = item.id;
+        let tempCar = {model, price, year,id}
         setCar({...tempCar});
-      saveCar(tempCar).then();
+        carEdit(tempCar).then();
 
     }
     let onInputChangeModel = (e) =>{
@@ -28,11 +28,11 @@ export default function ControlledForm() {
     }
     return (
         <div >
-            <form className={"fixedBlockInput"} onSubmit={onSubmitForm}>
-                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'model avto'}/>
-                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'price avto'}/>
-                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'year avto'}/>
-                <button>Submit</button>
+            <form className={"change"} onSubmit={onSubmitForm}>
+                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'change model avto'}/>
+                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'change price avto'}/>
+                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'change year avto'}/>
+                <button>Change</button>
                 {/*<input type="submit" name={'save'}/>*/}
             </form>
 

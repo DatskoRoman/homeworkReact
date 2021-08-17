@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/all-cars/AllCars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/all-cars/AllCars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/all-cars/AllCars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/car/Car.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form/Form.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/car.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/car.service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +19,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson_4_classwork" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +59,8 @@
       <updated>1628586091115</updated>
       <workItem from="1628586092465" duration="60000" />
       <workItem from="1629109372805" duration="18107000" />
-      <workItem from="1629190803624" duration="1450000" />
+      <workItem from="1629190803624" duration="4316000" />
+      <workItem from="1629197002107" duration="9681000" />
     </task>
     <task id="LOCAL-00001" summary="clean">
       <created>1629109414338</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629126607746</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="classwork 17.08">
+      <created>1629193412133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629193412133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clean" />
     <MESSAGE value="classwork 16.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="classwork 16.08" />
+    <MESSAGE value="classwork 17.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="classwork 17.08" />
   </component>
 </project>

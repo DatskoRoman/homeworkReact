@@ -1,6 +1,5 @@
 
 import './App.css';
-import Form from "./components/form/Form";
 import ControlledForm from "./components/controlled-form/ControlledForm";
 import AllCars from "./components/all-cars/AllCars";
 
