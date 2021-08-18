@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.styleGref{
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  font-size: 45px;
+}
+.styleLink{
+  margin: 25px;
+}
+body{
+  background: darkgrey;
+}
