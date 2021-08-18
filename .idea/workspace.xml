@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/edit/Edit.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/car/Car.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/edit/Edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Datsko/js_demos" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -60,7 +53,8 @@
       <workItem from="1628586092465" duration="60000" />
       <workItem from="1629109372805" duration="18107000" />
       <workItem from="1629190803624" duration="4316000" />
-      <workItem from="1629197002107" duration="13385000" />
+      <workItem from="1629197002107" duration="13481000" />
+      <workItem from="1629277887929" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="clean">
       <created>1629109414338</created>
@@ -90,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629207069895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework 17.08">
+      <created>1629210684577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629210684577</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
