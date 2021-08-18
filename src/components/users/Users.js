@@ -12,6 +12,7 @@ export default function Users() {
     })
     return (
         <div>
+            <h1>Users</h1>
             {
                 users.map(value =>
                     <div className={'styleUsers'}>

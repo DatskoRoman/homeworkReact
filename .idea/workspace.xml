@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/users/Users.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comments/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Users.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +61,23 @@
       <option name="presentableId" value="Default" />
       <updated>1628586091115</updated>
       <workItem from="1628586092465" duration="60000" />
-      <workItem from="1629281746431" duration="7860000" />
+      <workItem from="1629281746431" duration="8173000" />
     </task>
+    <task id="LOCAL-00001" summary="Classwork lesson 5">
+      <created>1629289635929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629289635929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classwork lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classwork lesson 5" />
   </component>
 </project>
