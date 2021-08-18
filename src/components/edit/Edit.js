@@ -1,17 +1,24 @@
-import {useState} from "react";
-import {carEdit} from "../../services/car.service";
+import {useEffect, useState} from "react";
+import {carEdit, getCars} from "../../services/car.service";
 import './Edit.css'
+import Car from "../car/Car";
 
 export default function Edit({item}) {
+
+    let [cars, setCars] = useState([]);
     let [model, setModel] = useState([]);
     let [price, setPrice] = useState([]);
     let [year, setYear] = useState([]);
     let [car, setCar] = useState({model:'', price:'', year:''})
+    // useEffect(()=> {
+    //     getCars().then(value => setCars(value));
+    // }, []);
     const onSubmitForm = (e) => {
+        e.preventDefault()
         let id = item.id;
         let tempCar = {model, price, year,id}
         setCar({...tempCar});
-        carEdit(tempCar);
+        carEdit(tempCar).then(value => setCars([...cars, value]))
 
     }
     let onInputChangeModel = (e) =>{
@@ -29,6 +36,7 @@ export default function Edit({item}) {
     }
     return (
         <div >
+
             <form className={"change"} onSubmit={onSubmitForm}>
                 <h3 className={'h3Change'}>Change your auto</h3>
                 <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'change model auto'}/>

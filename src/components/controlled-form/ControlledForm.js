@@ -8,6 +8,7 @@ export default function ControlledForm() {
     let [year, setYear] = useState([]);
     let [car, setCar] = useState({model:'', price:'', year:''})
     const onSubmitForm = (e) => {
+        e.preventDefault()
       let tempCar = {model, price, year}
         setCar({...tempCar});
       saveCar(tempCar).then();
@@ -28,16 +29,6 @@ export default function ControlledForm() {
     }
     return (
         <div >
-
-            <form className={"fixedBlockInput"} onSubmit={onSubmitForm}>
-                <h1 className={'h1CreateCar'}>Create new car:</h1>
-                <input type="text" name={model}  onInput={onInputChangeModel} placeholder={'create model auto'}/>
-                <input type="text" name={price}  onInput={onInputChangePrice} placeholder={'create price auto'}/>
-                <input type="text" name={year}  onInput={onInputChangeYear} placeholder={'create year auto'}/>
-                <button>Submit</button>
-                {/*<input type="submit" name={'save'}/>*/}
-            </form>
-
 
 
         </div>

@@ -7,7 +7,7 @@ const saveCar = ({model, price, year}) =>{
         },
     })
         .then((response) => response.json())
-        .then((json) => console.log(json));
+        .then((json) => json);
 }
 
 

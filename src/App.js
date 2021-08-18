@@ -10,7 +10,7 @@ function App() {
             <h1>Info about car:</h1>
             <AllCars/>
         </div>
-        <ControlledForm/>
+        {/*<ControlledForm/>*/}
     </div>
   );
 }
