@@ -13,6 +13,9 @@ function App() {
   return (
       <Router>
         <div className={'styleGref'}>
+            <div className={'styleLink'}>
+                <Link to={'/Reloud'}>Reloud</Link>
+            </div>
           <div className={'styleLink'}>
               <Link to={'/users'}>Users</Link>
           </div>

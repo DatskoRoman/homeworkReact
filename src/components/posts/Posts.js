@@ -15,7 +15,7 @@ export default function Posts() {
             <h1>Posts</h1>
             {
                 posts.map(value =>
-                    <div className={'stylePosts'}>
+                    <div className={'stylePosts'} key={value.id}>
                         <h3>Id: {value.id}.UserId: {value.userId}</h3>
                         <p><b>Title:</b> {value.title}</p>
                         <p> <b>Body:</b> {value.body}</p>

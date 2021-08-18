@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/comments/Comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/users/Users.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/users/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

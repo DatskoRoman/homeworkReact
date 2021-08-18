@@ -15,7 +15,7 @@ export default function Comments() {
             <h1>Comments</h1>
             {
                 comments.map(value =>
-                    <div className={'styleComments'}>
+                    <div className={'styleComments'} key={value.id}>
                         <h3><b>Post id:</b> {value.postId}.Id: {value.id}</h3>
                         <p><b>Name:</b> {value.name}</p>
                         <p> <b>Email:</b> {value.email}</p>

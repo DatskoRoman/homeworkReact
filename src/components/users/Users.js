@@ -15,7 +15,7 @@ export default function Users() {
             <h1>Users</h1>
             {
                 users.map(value =>
-                    <div className={'styleUsers'}>
+                    <div className={'styleUsers'} key={value.id}>
                         <h2>Id: {value.id}. {value.name} {value.username}</h2>
                         <p><b>Email:</b> {value.email}</p>
                     </div>
