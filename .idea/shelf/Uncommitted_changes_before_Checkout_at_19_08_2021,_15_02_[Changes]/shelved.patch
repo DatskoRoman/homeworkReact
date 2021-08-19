@@ -1,0 +1,175 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"JavaScript File\" />\n        <option value=\"CSS File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson_4_classwork\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1wWtIHIjXg7ng4v5WWeTFFCiqab\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../Datsko/js_demos\" />\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\" />\n      <created>1628586091115</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1628586091115</updated>\n      <workItem from=\"1628586092465\" duration=\"60000\" />\n      <workItem from=\"1629109372805\" duration=\"18107000\" />\n      <workItem from=\"1629190803624\" duration=\"4316000\" />\n      <workItem from=\"1629197002107\" duration=\"13481000\" />\n      <workItem from=\"1629277887929\" duration=\"1316000\" />\n      <workItem from=\"1629363980875\" duration=\"5695000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"clean\">\n      <created>1629109414338</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629109414338</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"classwork 16.08\">\n      <created>1629126607746</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629126607746</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"classwork 17.08\">\n      <created>1629193412133</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629193412133</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"homework 17.08\">\n      <created>1629207069895</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629207069895</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"homework 17.08\">\n      <created>1629210684577</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629210684577</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"homework 17.08\">\n      <created>1629297625641</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629297625642</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"homework 19.08 modified\">\n      <created>1629371364240</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1629371364240</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"clean\" />\n    <MESSAGE value=\"classwork 16.08\" />\n    <MESSAGE value=\"classwork 17.08\" />\n    <MESSAGE value=\"homework 17.08\" />\n    <MESSAGE value=\"homework 19.08 modified\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"homework 19.08 modified\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,32 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="" />
++    <list default="true" id="0428f36a-b209-4034-a44f-ae0e3e022045" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021__12_29__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/components/car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.js" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="JavaScript File" />
+-        <option value="CSS File" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="lesson_4_classwork" />
+-      </map>
+-    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="ProjectId" id="1wWtIHIjXg7ng4v5WWeTFFCiqab" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
++  <component name="ProjectId" id="1wwejNN9Io36XNWUjO04ARu7Sfw" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -35,87 +26,31 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Datsko/js_demos" />
+-    <property name="list.type.of.created.stylesheet" value="CSS" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+     <property name="nodejs_package_manager_path" value="npm" />
++    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+-      <changelist id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="" />
+-      <created>1628586091115</created>
++      <changelist id="0428f36a-b209-4034-a44f-ae0e3e022045" name="Changes" comment="" />
++      <created>1629374223564</created>
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+-      <updated>1628586091115</updated>
+-      <workItem from="1628586092465" duration="60000" />
+-      <workItem from="1629109372805" duration="18107000" />
+-      <workItem from="1629190803624" duration="4316000" />
+-      <workItem from="1629197002107" duration="13481000" />
+-      <workItem from="1629277887929" duration="1316000" />
+-      <workItem from="1629363980875" duration="5695000" />
++      <updated>1629374223564</updated>
++      <workItem from="1629374228565" duration="123000" />
++      <workItem from="1629374390880" duration="125000" />
+     </task>
+-    <task id="LOCAL-00001" summary="clean">
+-      <created>1629109414338</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629109414338</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="classwork 16.08">
+-      <created>1629126607746</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629126607746</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="classwork 17.08">
+-      <created>1629193412133</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629193412133</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="homework 17.08">
+-      <created>1629207069895</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629207069895</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="homework 17.08">
+-      <created>1629210684577</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629210684577</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="homework 17.08">
+-      <created>1629297625641</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629297625642</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="homework 19.08 modified">
+-      <created>1629371364240</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1629371364240</updated>
+-    </task>
+-    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="clean" />
+-    <MESSAGE value="classwork 16.08" />
+-    <MESSAGE value="classwork 17.08" />
+-    <MESSAGE value="homework 17.08" />
+-    <MESSAGE value="homework 19.08 modified" />
+-    <option name="LAST_COMMIT_MESSAGE" value="homework 19.08 modified" />
++  <component name="XSLT-Support.FileAssociations.UIState">
++    <expand />
++    <select />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/components/car/Car.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import './Car.css'\nimport {carDelete} from \"../../services/car.service\";\nimport Edit from \"../edit/Edit\";\nimport {useState} from \"react\";\n\nexport default function Car({item, setCheckCar, deleteCarObj}){\nlet[edit, setEdit]=useState('')\n    return (\n        <div className={'carBlock'}>\n            <h2>Id: {item.id}. Model: {item.model}. </h2>\n            <p>Price: {item.price}. Year: {item.year}</p>\n            <div className={'buttonCar'}>\n                <button onClick={()=>deleteCarObj(item.id)\n                } className={'buttonDelete'}>Delete</button>\n\n                <button onClick={()=>{\n                    setEdit(<Edit item={item} setCheckCar={setCheckCar}/>)\n                }} className={'buttonEdit'}>Edit</button>\n            </div>\n            <div>{edit}</div>\n        </div>\n    );\n}
+===================================================================
+diff --git a/src/components/car/Car.js b/src/components/car/Car.js
+--- a/src/components/car/Car.js	
++++ b/src/components/car/Car.js	
+@@ -1,5 +1,4 @@
+ import './Car.css'
+-import {carDelete} from "../../services/car.service";
+ import Edit from "../edit/Edit";
+ import {useState} from "react";
+ 
+@@ -17,6 +16,7 @@
+                     setEdit(<Edit item={item} setCheckCar={setCheckCar}/>)
+                 }} className={'buttonEdit'}>Edit</button>
+             </div>
++
+             <div>{edit}</div>
+         </div>
+     );

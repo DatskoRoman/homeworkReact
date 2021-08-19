@@ -1,0 +1,88 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021__12_29__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021__12_29__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021__12_29__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021__12_29__Changes_.xml	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]" date="1629106201725" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 16.08.2021, 12:29 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_16_08_2021,_12_29_[Changes]/shelved.patch	
++++ /dev/null	
+@@ -1,67 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/components/comment/Comment.css\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/comment/Comment.js\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/comments/Comments.css\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/comments/Comments.js\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/post/Post.js\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/posts/Posts.js\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/posts/posts.css\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/components/service/post.service.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/App.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/components/character/Character.js\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/components/simpson/Simpson.js\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"JavaScript File\" />\n        <option value=\"CSS File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1wWtIHIjXg7ng4v5WWeTFFCiqab\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\" />\n      <created>1628586091115</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1628586091115</updated>\n      <workItem from=\"1628586092465\" duration=\"60000\" />\n      <workItem from=\"1628862945190\" duration=\"10425000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"homework 13.08\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"homework 13.08\" />\n  </component>\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision f5792b0f4cdd770d77f93ee6f849a6ef10bb67fe)
+-+++ b/.idea/workspace.xml	(date 1628873682577)
+-@@ -1,20 +1,7 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-   <component name="ChangeListManager">
+--    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
+--      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.css" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.css" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/posts/posts.css" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/src/components/service/post.service.js" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/components/character/Character.js" beforeDir="false" />
+--      <change beforePath="$PROJECT_DIR$/src/components/simpson/Simpson.js" beforeDir="false" />
+--    </list>
+-+    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -62,8 +49,23 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1628586091115</updated>
+-       <workItem from="1628586092465" duration="60000" />
+--      <workItem from="1628862945190" duration="10425000" />
+-+      <workItem from="1628862945190" duration="10727000" />
+-     </task>
+-+    <task id="LOCAL-00001" summary="homework 13.08">
+-+      <created>1628873631493</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1628873631493</updated>
+-+    </task>
+-+    <task id="LOCAL-00002" summary="classwork 13.08">
+-+      <created>1628873664097</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1628873664097</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="3" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -71,6 +73,7 @@
+-   </component>
+-   <component name="VcsManagerConfiguration">
+-     <MESSAGE value="homework 13.08" />
+--    <option name="LAST_COMMIT_MESSAGE" value="homework 13.08" />
+-+    <MESSAGE value="classwork 13.08" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="classwork 13.08" />
+-   </component>
+- </project>
+-\ No newline at end of file
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
