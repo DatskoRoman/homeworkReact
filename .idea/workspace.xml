@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/all-cars/AllCars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/all-cars/AllCars.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/controlled-form/ControlledForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/car/Car.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/car/Car.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/edit/Edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/edit/Edit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/car.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/car.service.js" afterDir="false" />
     </list>
@@ -61,6 +59,7 @@
       <workItem from="1629190803624" duration="4316000" />
       <workItem from="1629197002107" duration="13481000" />
       <workItem from="1629277887929" duration="1316000" />
+      <workItem from="1629363980875" duration="5372000" />
     </task>
     <task id="LOCAL-00001" summary="clean">
       <created>1629109414338</created>
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629210684577</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework 17.08">
+      <created>1629297625641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629297625642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

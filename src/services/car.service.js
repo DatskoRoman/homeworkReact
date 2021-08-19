@@ -16,8 +16,8 @@ function getCars() {
         .then(value => value.json());
 }
 
-function carDelete({id}) {
-    return fetch(`http://195.72.146.25/api/v1/cars/${id}`, {
+function carDelete(carId) {
+    return fetch(`http://195.72.146.25/api/v1/cars/${carId}`, {
         method: 'DELETE',
     }
 )}

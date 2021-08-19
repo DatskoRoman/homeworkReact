@@ -1,9 +1,8 @@
 import {useEffect, useState} from "react";
 import {carEdit, getCars} from "../../services/car.service";
 import './Edit.css'
-import Car from "../car/Car";
 
-export default function Edit({item}) {
+export default function Edit({item, setCheckCar}) {
 
     let [cars, setCars] = useState([]);
     let [model, setModel] = useState([]);
@@ -13,12 +12,17 @@ export default function Edit({item}) {
     // useEffect(()=> {
     //     getCars().then(value => setCars(value));
     // }, []);
+
     const onSubmitForm = (e) => {
         e.preventDefault()
         let id = item.id;
         let tempCar = {model, price, year,id}
         setCar({...tempCar});
-        carEdit(tempCar).then(value => setCars([...cars, value]))
+        carEdit(tempCar).then(value => {
+            setCars([...cars, value]);
+            setCheckCar(value);
+        })
+        console.log(cars)
 
     }
     let onInputChangeModel = (e) =>{
