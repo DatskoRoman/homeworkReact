@@ -1,0 +1,14 @@
+.borderUser{
+    border: black solid 1px;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background: khaki;
+}
+button{
+    padding: 10px;
+    border-radius: 25px;
+    border: black solid 1px;
+    background: coral;
+}

@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.styleMainDiv{
+  border: black solid 1px;
+  padding: 10px;
+  margin: 30px;
+  border-radius: 25px;
+}
+.styleLink{
+  border: black solid 1px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 25px;
+  background: khaki;
+  width: 200px;
+  text-align: center;
+}
+body{
+  background: bisque;
+}
