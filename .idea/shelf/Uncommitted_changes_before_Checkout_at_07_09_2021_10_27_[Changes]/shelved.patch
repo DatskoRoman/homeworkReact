@@ -1,0 +1,83 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/comment/Comment.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/comments/Comments.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/post/Post.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/posts/Posts.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/service/user.service.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/user/User.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/users/Users.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/components/users/flexUser.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/App.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/components/character/Character.js\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/components/simpson/Simpson.js\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1wWtIHIjXg7ng4v5WWeTFFCiqab\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"App.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/src/App.js\" working-dir=\"$PROJECT_DIR$/src\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Node.js.App.js\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"fecff32f-f13a-4485-962c-5b0df76de8dd\" name=\"Changes\" comment=\"\" />\r\n      <created>1628586091115</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1628586091115</updated>\r\n      <workItem from=\"1628586092465\" duration=\"60000\" />\r\n      <workItem from=\"1628850108696\" duration=\"12297000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7518319e6851057b524f5128c7c96c32001b372e)
++++ b/.idea/workspace.xml	(date 1630999259543)
+@@ -1,19 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/components/comment/Comment.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/comments/Comments.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/post/Post.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/posts/Posts.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/service/user.service.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/users/Users.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/components/users/flexUser.css" afterDir="false" />
++    <list default="true" id="fecff32f-f13a-4485-962c-5b0df76de8dd" name="Changes" comment="homework 15.08.1">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_08_2021__13_20__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_08_2021__13_20__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/components/character/Character.js" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/components/simpson/Simpson.js" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -31,7 +21,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="lesson_3_classwork" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -45,6 +35,7 @@
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+@@ -59,6 +50,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Node.js.App.js" />
+         <item itemvalue="Node.js.App.js" />
+       </list>
+     </recent_temporary>
+@@ -73,10 +65,24 @@
+       <updated>1628586091115</updated>
+       <workItem from="1628586092465" duration="60000" />
+       <workItem from="1628850108696" duration="12297000" />
++      <workItem from="1629725967294" duration="1075000" />
++      <workItem from="1630998522275" duration="405000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
+ </project>
+\ No newline at end of file
